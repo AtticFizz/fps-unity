@@ -1,0 +1,24 @@
+
+Updates:
+ * random color controller (for glass bottles)
+ * dynamite, granades
+ * robo-enemies
+ * breakable locks and doors
+ * sounds
+ * scrollwheel controlled weapon changer
+ * leaning
+ * finished crouching ability
+ * animations for running, walking, aiming, crouching, reloading, etc...
+ * deadeye
+ * 3rd person camera
+ * ray projected aim point at close ranges
+ * separate random rotation and random ofset parameters (in EjectorController and GunController)
+ * rotatable head and gun holding hand
+ * hats
+ * duckfoot pistol
+ * blunderbuss
+ * collectable items
+
+Fixes:
+ * camera turns upside down at certain y-rotation angles
+ * zoom in = zoom out and zoom out = zoom in ???
