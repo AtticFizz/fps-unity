@@ -1,5 +1,7 @@
 # fps-unity
 
+Editor version: 2021.2.16f1
+
 ![image](https://user-images.githubusercontent.com/66317048/205673736-f373c596-cd76-41ba-926a-832ef34562e7.png)
 
 ![image](https://user-images.githubusercontent.com/66317048/205674141-15992330-c5c2-4830-a1a2-783f148a3aca.png)
